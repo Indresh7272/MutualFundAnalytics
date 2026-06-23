@@ -1,0 +1,17 @@
+Day 1 Data Quality Summary
+
+Datasets Loaded Successfully: 10
+
+Checks Performed:
+✓ Shape
+✓ Data Types
+✓ Missing Values
+✓ Duplicate Rows
+✓ Live NAV API fetch
+✓ Scheme Code Validation
+
+Observations:
+- No duplicate rows found.
+- Some missing values observed.
+- Live NAV data fetched successfully.
+- All scheme codes validated successfully.
